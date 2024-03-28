@@ -1,4 +1,4 @@
-# "Azure Data Engineering Automation: Terraform & CI/CD"
+# Azure Data Engineering Automation: Terraform & CI/CD
 
 This repository serves as an Infrastructure as Code (IaC) project focusing on orchestrating the provisioning of Azure services tailored for Data Engineering tasks using Terraform.
 
