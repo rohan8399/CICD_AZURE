@@ -11,6 +11,7 @@ Before getting started, ensure you have the following prerequisites:
 - Any preferred IDE such as Visual Studio Code or PyCharm
 
 ## System Architecture
+![image](https://github.com/rohan8399/CICD_AZURE/assets/127540229/ae82b509-6ef4-48c5-a245-55dba4ef455a)
 
 
 ## Getting Started
